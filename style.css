@@ -1,0 +1,20 @@
+h1{
+    background-color: darkcyan;
+    color: darkmagenta;
+}
+
+h2{
+    background-color: darkslateblue;
+    color: darkorchid;
+
+}
+
+h3{
+    background-color: lightskyblue;
+    color: lime;
+}
+
+h1, h2, h3{
+    width: 50%;
+    text-align: center;
+}
